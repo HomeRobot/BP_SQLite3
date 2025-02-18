@@ -1,0 +1,30 @@
+{
+    "FileVersion": 3,
+    "Version": 1,
+    "VersionName": "1.0",
+    "FriendlyName": "BP_SQLitePlugin",
+    "Description": "SQLite3 support in Bplueprint. Needs SQLiteCore plugin",
+    "Category": "Database",
+    "CreatedBy": "HomeRobot",
+    "CreatedByURL": "https://github.com/HomeRobot/BP_SQLite3",
+    "DocsURL": "https://github.com/HomeRobot/BP_SQLite3",
+    "MarketplaceURL": "",
+    "SupportURL": "https://github.com/HomeRobot/BP_SQLite3",
+    "CanContainContent": true,
+    "IsBetaVersion": true,
+    "IsExperimentalVersion": false,
+    "Installed": true,
+    "Modules": [
+        {
+            "Name": "BP_SQLitePlugin",
+            "Type": "Runtime",
+            "LoadingPhase": "Default",
+            "PlatformAllowList": [
+                "Win64"
+            ]
+        }
+    ],
+    "SupportedTargetPlatforms": [
+        "Win64"
+    ]
+}
